@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'sqldemo12'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c32250a09ea843b888822296b1917d96 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bec7425917934b15a44577f301a27c51 }}
         package: \published\
